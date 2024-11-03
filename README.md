@@ -1,5 +1,7 @@
 **广联达OA系统nday漏洞批量检测工具**
 
+**仅供学习与项目测试使用，禁止用于违法用途**
+
 fofa body="/Services/Identification/"
 鹰图 app.name="广联达 OA"
 
